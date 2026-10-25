@@ -1,0 +1,20 @@
+# phụ thuộc và bản build (GitHub Actions tự build khi đăng)
+node_modules/
+dist/
+
+# không đưa lên: dự án cũ, công cụ làm việc, file gốc của khách
+legacy/
+.taste-skill/
+.gemini/
+.impeccable/
+~/
+*.docx
+*.pdf
+Trang học liệu Bài Chòi.html
+Xem_truoc_thiet_ke_da_bien_tap.jpg
+
+# hệ điều hành / trình soạn thảo
+.DS_Store
+Thumbs.db
+.vscode/
+*.log

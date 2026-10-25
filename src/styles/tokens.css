@@ -1,0 +1,48 @@
+/* Token chép nguyên từ bản thiết kế "Trang học liệu Bài Chòi" (khối data-dc-design-system-vars). */
+:root {
+  --vang: #ffd502;
+  --do: #e93535;
+  --burgundy: #491220;
+  --nau: #482214;
+  --xanh-dam: #12492e;
+  --dao: #ffa366;
+  --xanh-nhat: #d8fcbe;
+  --kem: #ede5d8;
+  --be: #e7ddc5;
+  --than: #1b1b1b;
+  --xam-dam: #3b3b3b;
+  --xam: #b7b7b7;
+  --trang: #ffffff;
+
+  --space-1: 8px;
+  --space-2: 16px;
+  --space-3: 24px;
+  --space-4: 32px;
+  --space-5: 48px;
+  --space-6: 64px;
+  --space-7: 96px;
+  --space-8: 128px;
+
+  --radius-0: 0px;
+  --radius-sm: 4px;
+  --radius-tron: 9999px;
+
+  --chuyen-nhanh: 250ms;
+  --chuyen-vua: 500ms;
+  --chuyen-cham: 800ms;
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+
+  --font-chinh: "Noto Serif", Georgia, serif;
+  --font-phu: "Be Vietnam Pro", system-ui, sans-serif;
+
+  --khung: 1240px;
+  --le: 40px;
+  --header-h: 85px;
+}
+
+@media (max-width: 760px) {
+  :root {
+    --le: 16px;
+    --header-h: 65px;
+  }
+}
